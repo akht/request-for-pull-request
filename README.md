@@ -1,3 +1,3 @@
 # request-for-pull-request
 
-サインアウトしまっす
+ログアウトしまっす
